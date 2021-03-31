@@ -1,0 +1,2 @@
+{"level":"error","time":"2021-03-31T19:12:07.500+0800","file":"log/zap_log.go:203","msg":"上街","test":"app","app_name":"西永一哥","一起":"吃饭"}
+{"level":"info","time":"2021-03-31T19:12:07.513+0800","file":"log/zap_log.go:195","msg":"上街","test":"app","app_name":"西永一哥","一起":"吃面"}
